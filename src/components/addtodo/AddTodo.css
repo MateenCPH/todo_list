@@ -1,0 +1,13 @@
+div {
+    display: flex;
+    flex-direction: column;
+    place-items: center;
+}
+
+input {
+  display: flex;
+  place-items: center;
+  margin-bottom: 1rem;
+  width: 12rem;
+  height: 3rem;
+}
